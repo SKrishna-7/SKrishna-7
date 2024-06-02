@@ -4,7 +4,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skrishna-7&theme=" alt="skrishna-7" /></a> </p> -->
 
-- 🌱 I’m currently learning **🔭 I'm Currently immersing myself in the world of data science through self-study, courses, and hands-on projects to build expertise in machine learning, neural networks, natural language processing, and computer vision.**
+- 🔭 I'm Currently immersing myself in the world of data science through self-study, courses, and hands-on projects to build expertise in machine learning, neural networks, natural language processing, and computer vision.**
 
 - 📫 How to reach me **sureshkrishna375@gmail.com**
 
