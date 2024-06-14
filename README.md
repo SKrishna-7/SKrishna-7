@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURESH KRISHNAN S</h1>
-<h3 align="center">Enthusiastic and dedicated data science learner with a thirst for knowledge and a passion for turning data into insights. Currently immersing myself in the world of data science through self-study, courses, and hands-on projects to build expertise in machine learning, neural networks, natural language processing, and computer vision.</h3>
+<h3 align="center">Enthusiastic and dedicated data science learner with a thirst for knowledge and a passion for turning data into insights.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrishna-7&label=Profile%20views&color=0e75b6&style=flat" alt="skrishna-7" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skrishna-7&theme=" alt="skrishna-7" /></a> </p> -->
