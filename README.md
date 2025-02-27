@@ -36,12 +36,15 @@
 <h3 align="center">Stars</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrishna-7&langs_count=8&theme=dark" alt=skrishna-7 />
 </div>-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3> -->
 <div align="center">
 <a href="https://github.com/skrishna-7">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skrishna-7&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skrishna-7&theme=aura_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrishna-7&theme=aura_dark" height="180em" />
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrishna-7&show_icons=true&locale=en&theme=aura_dark" alt="skrishna-7" /></p>
+
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrishna-7&theme=2077" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrishna-7&theme=2077" height="180em" /> -->
 </div>
