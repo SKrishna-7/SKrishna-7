@@ -43,7 +43,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skrishna-7&theme=aura_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrishna-7&theme=aura_dark" height="180em" />
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrishna-7&show_icons=true&locale=en&theme=aura_dark" alt="skrishna-7" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrishna-7&show_icons=true&locale=en&theme=aura_dark" alt="skrishna-7" /></p> -->
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrishna-7&theme=2077" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrishna-7&theme=2077" height="180em" /> -->
