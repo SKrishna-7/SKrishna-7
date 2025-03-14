@@ -48,3 +48,8 @@
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrishna-7&theme=2077" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrishna-7&theme=2077" height="180em" /> -->
 </div>
+
+## 🌐 Let's Connect
+I'm always open to collaboration and discussions. Whether it's about technology or a new project , feel free to reach out!
+
+Thank you for visiting my profile! 😊
